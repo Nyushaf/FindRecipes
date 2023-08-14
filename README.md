@@ -1,70 +1,113 @@
-# Getting Started with Create React App
+<a name="readme-top"></a>
+<div>
+  <h1 align="center">Hi there, I'm <a href="https://www.instagram.com/prostofil_ka/" target="_blank">Anna</a></h1>
+</div>
+<br />
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/Nyushaf/FindRecipes.git">
+    <img src="https://media.giphy.com/media/YoVXiJR49pIXUyRYMz/giphy.gif" alt="Logo" width="200" height="200">
+  </a>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  <h3 align="center">Weather App</h3>
 
-## Available Scripts
+  <p align="center">
+    This is a recipe search app. 
+       <br />
+    <a href="https://github.com/Nyushaf/FindRecipes/tree/main/src"><strong>Explore the code »</strong></a>
+    <br />
+    <br />
+    ·
+    <a href="https://my-best-weather.netlify.app">View Demo</a>
+    ·
+  </p>
+  <a name="readme-top"></a>
+</div>
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-### `npm test`
+<img src="image/weather.jpg" alt="screen">
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This project about how to make a weather app. 
+* To display the weather, you need to enter the city you are interested in.
+* The home page reflects the weather in the largest cities of the world.
 
-### `npm run build`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Built With
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The following tools were used to create this project:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+* <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
+* <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+* <img height="32" width="32" src="https://cdn.simpleicons.org/json" />
+* <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
 
-### `npm run eject`
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<!-- GETTING STARTED -->
+## Getting Started
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To get a local copy up and running follow these simple example steps.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Installation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Copy link: <strong>https://github.com/Nyushaf/FindRecipes.git</strong>
+2. Clone the repo 
+   ```sh
+   git clone https://github.com/Nyushaf/FindRecipes.git
+   ```
+3. Use uour own [API and key](https://github.com/Nyushaf/FindRecipes/blob/0a785659f02da71bcd42904ce8c7a0d171e58822/src/App.js#L14-L21)
 
-## Learn More
+   <img width="500px" src="image/key.jpg" alt="screen">
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+<!-- USAGE EXAMPLES -->
+## Usage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Change parametrs [CSS](https://github.com/Nyushaf/FindRecipes/blob/0a785659f02da71bcd42904ce8c7a0d171e58822/src/App.css#L1-L105)
+   <img src="image/css.jpg" alt="screen">
+<br />
+<br />
+You can choose your favorite [ingredient](https://github.com/Nyushaf/FindRecipes/blob/0a785659f02da71bcd42904ce8c7a0d171e58822/src/App.js#L11)
+   <img src="image/city.jpg" alt="screen">
+  
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Analyzing the Bundle Size
+<!-- CONTACT -->
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Anna Filina - [linkedin](https://www.linkedin.com/in/anyuta-filina-40a131265/) - nyushaf@gmail.com
 
-### Making a Progressive Web App
+Project Link: [https://github.com/Nyushaf/FindRecipes.git](https://github.com/Nyushaf/FindRecipes.git)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
