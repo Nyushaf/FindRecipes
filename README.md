@@ -19,7 +19,7 @@
     <br />
     <br />
     ·
-    <a href="https://my-best-weather.netlify.app">View Demo</a>
+    <a href="https://find-your-favourite-recipe.netlify.app/">View Demo</a>
     ·
   </p>
   <a name="readme-top"></a>
