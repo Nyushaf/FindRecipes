@@ -1,38 +1,105 @@
 .App {
+  background-color: rgba(194, 191, 158, 0.5);
+}
+h1 {
+  color: #fff;
+  text-shadow: 3px 3px 10px black;
+  font-size: 40px;
+  font-family: 'Roboto', sans-serif;
+}
+video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+}
+.container {
+  display: flex;
+  justify-content: center;
   text-align: center;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.search {
+  padding: 13px;
+  font-size: 20px;
+  font-weight: bolder;
+  margin: 10px;
+  border: 2px solid rgba(233, 190, 105, 0.788);
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.662);
+  font-family: 'Roboto', sans-serif;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+button {
+  padding: 15px;
+  font-size: 25px;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+  background-color: rgba(233, 190, 105, 0.901);
+  color: #fff;
+  text-shadow: 1px 1px 5px black;
+  margin: 10px;
+  box-shadow: 3px 3px 10px black;
+  font-family: 'Roboto', sans-serif;
+}
+.recipesCont {
+  display: flex;
+  flex-wrap: wrap;
+}
+.recipeCard {
+  display: flex;
+  flex-direction: column;
+  padding: 2%;
+  flex-grow: 1;
+  flex-basis: 16%;
+  justify-content: flex-end;
+}
+.btn {
+  font-size: 17px;
+  font-weight: lighter;
+  padding: 10px;
+}
+h2 {
+  text-shadow: 1px 1px #fff;
+  font-family: 'Roboto', sans-serif;
+}
+p {
+  font-weight: bold;
+  text-shadow: 0.7px 0.7px #fff;
+  font-family: 'Roboto', sans-serif;
+}
+.modal {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  
+.overlay {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1a1a1a94;
+  width: 100%;
+  height: 100%;
+  }
+  
+.modal_content {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  background-color: #FFFFFF;
+  font-size: 15px;
+  width: 50%;
+  height: 50%;
+  font-family: 'Roboto', sans-serif;
+  border-radius: 15px;
   }
-  to {
-    transform: rotate(360deg);
+
+  li {
+    list-style: square;
   }
-}
