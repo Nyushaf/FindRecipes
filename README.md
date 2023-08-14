@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="image/weather.jpg" alt="screen">
+<img src="src/image/app.jpg" alt="screen">
 
 This project about how to make a weather app. 
 * To display the weather, you need to enter the city you are interested in.
@@ -83,9 +83,8 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/Nyushaf/FindRecipes.git
    ```
-3. Use uour own [API and key](https://github.com/Nyushaf/FindRecipes/blob/0a785659f02da71bcd42904ce8c7a0d171e58822/src/App.js#L14-L21)
+3. Use uour own [API and key] https://github.com/Nyushaf/FindRecipes/blob/0a785659f02da71bcd42904ce8c7a0d171e58822/src/App.js#L14-L21
 
-   <img width="500px" src="image/key.jpg" alt="screen">
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,12 +93,12 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Change parametrs [CSS](https://github.com/Nyushaf/FindRecipes/blob/0a785659f02da71bcd42904ce8c7a0d171e58822/src/App.css#L1-L105)
-   <img src="image/css.jpg" alt="screen">
+Change parametrs [CSS] https://github.com/Nyushaf/FindRecipes/blob/0a785659f02da71bcd42904ce8c7a0d171e58822/src/App.css#L1-L105
+   
 <br />
 <br />
-You can choose your favorite [ingredient](https://github.com/Nyushaf/FindRecipes/blob/0a785659f02da71bcd42904ce8c7a0d171e58822/src/App.js#L11)
-   <img src="image/city.jpg" alt="screen">
+You can choose your favorite [ingredient] https://github.com/Nyushaf/FindRecipes/blob/0a785659f02da71bcd42904ce8c7a0d171e58822/src/App.js#L11
+   
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
